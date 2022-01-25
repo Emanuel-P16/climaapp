@@ -3,7 +3,7 @@ const { Busquedas } = require("./models/busquedas");
 
 
 const main = async () => {
-    asdadsasdasd
+    asdadsasdasdasd
     const busquedas = new Busquedas()
 
    
