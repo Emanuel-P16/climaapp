@@ -20,6 +20,7 @@ class Busquedas {
             })
             const resp = await instance.get();
             // const respuesta = await axios.get('https://api.mapbox.com/geocoding/v5/mapbox.places/BUENOS%20AIRES.json?types=place%2Cpostcode%2Caddress&language=es&access_token=pk.eyJ1IjoiZWRnZXAxNiIsImEiOiJja3lzenFpdGsxOTB3MzF0ODhwanZmNDIyIn0.hplq1ySSH7DRYoSZG532eg')
+            console.log('hola')
             console.log(resp.data)
             return []
         }catch (error){

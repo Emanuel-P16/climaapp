@@ -24,13 +24,13 @@ const main = async () => {
                 // Clima
 
                 // Mostrar resultados
-                console.log('\nInformación de la ciudad \n'.green)
-                console.log('Ciudad:',)
-                console.log('Lat:',)
-                console.log('Lng:',)
-                console.log('Temperatura:',)
-                console.log('Mínima:',)
-                console.log('Maxima:',)
+                // console.log('\nInformación de la ciudad \n'.green)
+                // console.log('Ciudad:',)
+                // console.log('Lat:',)
+                // console.log('Lng:',)
+                // console.log('Temperatura:',)
+                // console.log('Mínima:',)
+                // console.log('Maxima:',)
 
             break;
             await pausa()
